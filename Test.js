@@ -1,2 +1,2 @@
 console.log("Hello world!"+num)
-num = 5+10
+num = 5+9

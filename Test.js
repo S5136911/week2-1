@@ -1,2 +1,2 @@
-console.log("Hello world!"+num)
-num = 5+9
+var sum =5+10
+console.log("Hello world!"+sum)

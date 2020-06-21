@@ -1,1 +1,2 @@
-console.log("Hello world!")
+console.log("Hello world!"+num)
+num = 5+10
